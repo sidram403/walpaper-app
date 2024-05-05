@@ -15,7 +15,7 @@ const _layout = () => {
             name="home/image"
             options={{
               headerShown: false,
-              presentation: "true",
+              presentation: "transparentModal",
               animation: "fade",
             }}
           />
